@@ -1,0 +1,12 @@
+[[index]]
+= SmallRye Health Documentation
+:ext-relative: {outfilesuffix}
+:toc!:
+
+Quisque in orci vulputate, venenatis erat sed, blandit sem. Suspendisse laoreet risus non quam tempor ultrices. Mauris placerat nec purus sed maximus. Aenean dolor lorem, varius eget sollicitudin in, lacinia at nulla. Donec congue lectus pretium fringilla consequat. Maecenas malesuada maximus neque ornare convallis. Donec dapibus ultrices massa, eget mattis felis gravida quis. Proin urna metus, congue in rutrum vel, placerat quis sem. Maecenas odio nisi, molestie nec ligula vel, bibendum tempus leo. Aliquam malesuada dolor nec lorem lobortis placerat. Mauris vitae mi vel nisi pulvinar scelerisque. Phasellus semper lobortis leo eu hendrerit. Sed volutpat, metus quis cursus vestibulum, ligula lectus convallis enim, in gravida tellus elit eget tellus. 
+
+[[more-resources]]
+== More Resources
+
+* https://github.com/smallrye/smallrye-health/[GitHub project repository]
+* https://github.com/eclipse/microprofile-health/[Eclipse MicroProfile Health]
